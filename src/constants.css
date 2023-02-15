@@ -1,0 +1,11 @@
+:root {
+    --background-color: #FFF;
+    --input-border-color: #979797;
+    --color: #000;
+    --shadow-color: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    --highlight-background: #FFF;
+    --highlight-color: rgba(0, 0, 0, 0.7);
+    --highlight-description: #000;
+    --rating-color: #f1c40f;
+    --bg-secondary: #ededed;
+}
