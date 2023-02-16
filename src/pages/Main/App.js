@@ -9,8 +9,6 @@ function App() {
 
   const [theme, setTheme] = useState(null)
 
-
-
   if (!theme) {
     if (!localStorage.getItem('theme')) {
       setTheme('light')
